@@ -11,7 +11,7 @@
 
 
 
-🌱 I'm currently learning **Fullstack and Data Analytic**
+🌱 I'm currently learning **Python Devloper ,Front-End Devloper,Data Analytic And Machine Learning Begainer**
 
 👯 I'm looking to collaborate on **Project related to mention technologies**
 
