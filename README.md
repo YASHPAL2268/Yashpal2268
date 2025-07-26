@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Chaudhary Yashpal
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Python Devloper;Data+Analytics+Enthusiast;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Turning+data+into+insights;Building+scalable+web+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Data+Analytics+Enthusiast;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Turning+data+into+insights;Building+scalable+web+apps)](https://git.io/typing-svg)
+
 
 
   
