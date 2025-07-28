@@ -15,7 +15,7 @@
 
 
 
-🌱 I'm currently learning **Python Devloper ,Front-End Devloper,Data Analytic And Machine Learning Begainer**
+🌱 I'm currently learning **  MERN Stack Developer , Python Devloper ,Data Analytic And Machine Learning Begainer**
 
 👯 I'm looking to collaborate on **Project related to mention technologies**
 
