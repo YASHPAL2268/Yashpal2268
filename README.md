@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Chaudhary Yashpal
+# Hi there! 👋 I'm  Yashpal Chaudhary
 
 <div align="center">
 
